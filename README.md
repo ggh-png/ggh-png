@@ -4,7 +4,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggh-png&show_icons=true&theme=dark)
-<p align="center">
+<p align="light">
 
 <a href="https://ggh-png.github.io/">
 
