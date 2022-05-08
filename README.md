@@ -7,8 +7,7 @@
 <p align="light">
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=dntjd292)](https://solved.ac/dntjd292)
-  
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dntjd292)](https://solved.ac/dntjd292)  
   
 <a href="https://ggh-png.github.io/">
 
