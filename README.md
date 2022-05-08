@@ -6,8 +6,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggh-png&show_icons=true&theme=dark)
 <p align="light">
 
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dntjd292)](https://solved.ac/dntjd292/)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={dntjd292})](https://solved.ac/{dntjd292})
   
   
 <a href="https://ggh-png.github.io/">
