@@ -9,7 +9,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dntjd292)](https://solved.ac/dntjd292)  
   
-<a href="https://ggh-png.github.io/">
+<a href="https://velog.io/@ggh-png/">
 
 <img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=GitHub&logoColor=white" alt="Doputer's blog" />
 
