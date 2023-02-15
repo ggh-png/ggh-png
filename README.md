@@ -10,7 +10,8 @@
 - ROS를 사용하여 자율 주행 자동차 개발
 - 컴퓨터 비전과 딥 러닝 공부
 - 백준 온라인 저지에서 알고리즘 문제 해결
-  [![Solved.ac
+  
+[![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dntjd292)](https://solved.ac/dntjd292)  
 
 🌱 현재 배우고 있는 것:
@@ -33,14 +34,14 @@
 - 이메일: **[0380089@gmail.com](mailto:0380089@gmail.com)**
 - 링크드인: ggh-png
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggh-png&show_icons=true&theme=dark)
-<p align="light">
-  
+
 ⚡ 재미있는 사실:
 저는 여가 시간에 게임을 하고 영화를 보는 것을 좋아합니다. 또한 기타 연주와 헬스도 즐기고 있습니다!
   
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggh-png&show_icons=true&theme=dark)
+<p align="light">
+  
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fggh-png&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
