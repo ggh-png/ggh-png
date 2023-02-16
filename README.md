@@ -3,7 +3,7 @@
 
 
   
-  로봇 공학과 머신 러닝에 관심 있는 소프트웨어 개발자 ggh-png입니다. 새로운 기술을 배우고 새로운 것을 만드는 것을 좋아합니다.
+  로봇 공학과 머신 러닝에 관심 있는 소프트웨어 개발자를 꿈꾸는 ggh-png입니다. 새로운 기술을 배우고 만드는 것을 좋아합니다.
 
 💻 관심 있는 것:
 
@@ -34,9 +34,6 @@
 - 이메일: **[0380089@gmail.com](mailto:0380089@gmail.com)**
 - 링크드인: ggh-png
 
-
-⚡ 재미있는 사실:
-저는 여가 시간에 게임을 하고 영화를 보는 것을 좋아합니다. 또한 기타 연주와 헬스도 즐기고 있습니다!
   
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggh-png&show_icons=true&theme=dark)
