@@ -14,13 +14,13 @@
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dntjd292)](https://solved.ac/dntjd292)  
 
 🌱 현재 배우고 있는 것:
-
-- ROS2
 - 영어 (토익)
+- behavior planning
+- flexbe
 
 👨‍💻 경험해본 것:
-
 - ROS1
+- ROS2
 - C++
 - Python
 - Arduino
