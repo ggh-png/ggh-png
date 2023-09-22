@@ -31,8 +31,8 @@
 📫 연락 방법:
 
 - 이메일: **[0380089@gmail.com](mailto:0380089@gmail.com)**
-- 링크드인: ggh-png
-
+- 링크드인: [ggh-png
+](https://www.linkedin.com/in/%EC%9A%B0%EC%84%B1-%EC%9C%A4-524b54207/)
   
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggh-png&show_icons=true&theme=dark)
