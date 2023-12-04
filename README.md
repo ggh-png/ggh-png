@@ -16,8 +16,8 @@
 🌱 현재 배우고 있는 것:
 - 영어 (토익)
 - behavior planning
-- flexbe
-
+- FlexBE
+- BehaviorTree
 👨‍💻 경험해본 것:
 - ROS1
 - ROS2
