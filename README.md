@@ -55,6 +55,9 @@
 <p align="center">
 Feel free to contact me! <br/>
 
+<a href="https://www.miricanvas.com/en/v/11xa6e7">
+  <img src="https://img.shields.io/badge/Portfolio-333333?style=flat-square&logo=aboutdotme&logoColor=white" alt="Notion badge">
+</a>
 <a href="mailto:0380089@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge">
 </a>
@@ -64,10 +67,11 @@ Feel free to contact me! <br/>
 <a href="https://www.youtube.com/@ggh-png1956">
   <img src="https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool" alt="Youtube badge">
 </a>
-
 <a href="https://ggh-png.notion.site/ggh-png/Woosung-Yun-16843801948c44568fd78c21841cd13c">
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion badge">
 </a>
+
+
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=footer)
