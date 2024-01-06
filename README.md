@@ -1,37 +1,69 @@
-로봇 공학과 물류로봇에 관심 있는 소프트웨어 개발자를 꿈꾸는 ggh-png입니다. 새로운 기술을 배우고 만드는 것을 좋아합니다.
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=🤖%20Robotics%20Researcher%20🚀&fontSize=40)
 
-💻 관심 있는 것:
+<p align="right">
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fggh-png&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"alt="Top Langs" />
+</p>
 
-- AGV, AMR 군집제어 시스템
-- 백준 온라인 저지에서 알고리즘 문제 해결
+<h3 align="center">🧑🏻‍💻 Development Experience</h3>
 
-http://mazassumnida.wtf/api/mini/generate_badge?boj=dntjd292
+<h5 align="center">Programming</h5>
+<p align="center">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/>
+</p>
+<h5 align="center">Framework</h5>
+<p align="center">
+  <img src="https://img.shields.io/badge/ROS-123456?style=for-the-badge&logo=ROS&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/ROS2-125656?style=for-the-badge&logo=ROS&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/FlexBE-FCBFBD?style=for-the-badge&logo=FlexBE&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/BehaviorTree-68A51C?style=for-the-badge&logo=BehaviorTree&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Arduiono-553322?style=for-the-badge&logo=arduino&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/SolidWorks-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white"/></a>&nbsp
+</p>
 
-🌱 현재 배우고 있는 것:
+### 👨‍🔧 Introduction
 
-- 영어 (토익)
-- behavior planning
-- BehaviorTree
+> Hello! I am a developer passionate about robotics and autonomous driving systems. Building on my experience with FSM and HFSM in the Kookmin University Autonomous Driving Competition and the YACYAC project, I have been deeply involved in projects related to Task management and Control in robotics using HFSM. My recent projects include designing and developing a robot HFSM using FlexBE and developing a Position Controller using Turtlebot3. These experiences have contributed significantly to enhancing the efficiency and flexibility of robot control systems.
 
-👨‍💻 경험해본 것:
+<br/>
 
-- ROS1
-- ROS2
-- FlexBE
-- C++
-- Python
-- Arduino
-- Git/GitHub
-- Notion
-- SolidWorks
+### 🚩 History
+> 🔹 Bachelor's in Robotics Fusion Major, Hanyang University ERICA (Mar 2019 - Feb 2024)
+> 
+> 🔹 Undergraduate Researcher at AiRO, Member of Ilus Society (Mar 2019 - Jan 2020)
+>
+> 🔹 COMS Research and Design Intern (Mar 2020 - Aug 2020)
+>
+> 🔹 Developer & Researcher at BMK Robotics Platform (Mar 2020 - Aug 2021)
+>
+> 🔹 Developed Robotics Education Programs at Sangnoksu Youth Center (Mar 2021 - Aug 2021)
+>
+> 🔹 Military Service (Sep 2021 - Jun 2023)
+>
+> 🔹 Member of Auturbo Team, 4th Cohort (Apr 2023 - Present)
+>
+> 🔹 Developer & Researcher at BMK Robotics Platform (Sep 2023 - Feb 2024)
 
-📫 연락 방법:
+<br/>
 
-- 이메일: **[0380089@gmail.com](mailto:0380089@gmail.com)**
-- 링크드인: [ggh-png](https://www.linkedin.com/in/%EC%9A%B0%EC%84%B1-%EC%9C%A4-524b54207/)
+### 🔍 Research Interest
 
-https://github-readme-stats.vercel.app/api?username=ggh-png&show_icons=true&theme=dark
+> My research interests primarily lie in the precise control and sensor data processing of autonomous robots. I am particularly focused on robot behavior management and state control using FSM and HFSM, as well as precise obstacle detection and environmental recognition using LiDAR data. I am committed to continuously researching the integration of cutting-edge robotics technology to develop practical autonomous driving systems.
 
-<p align="light">
+<br/>
 
-!https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fggh-png&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false
+<p align="center">
+Feel free to contact me! <br/>
+
+<a href="mailto:0380089@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge">
+</a>
+<a href="https://www.linkedin.com/in/%EC%9A%B0%EC%84%B1-%EC%9C%A4-524b54207/?originalSubdomain=kr">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077b5?style=round-square&logo=linkedin&logoColor=white" alt="Linkedin">
+</a>
+<a href="https://www.youtube.com/@ggh-png1956">
+  <img src="https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool" alt="Youtube badge">
+</a>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=footer)
