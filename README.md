@@ -6,7 +6,7 @@
 </p>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={dntjd292})](https://solved.ac/{dntjd292})
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dntjd292)](https://solved.ac/dntjd292)
 
 
 <h3 align="center">🧑🏻‍💻 Development Experience</h3>
