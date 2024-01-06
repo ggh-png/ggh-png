@@ -1,57 +1,37 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=🤖%20Robotics%20Researcher%20🚀&fontSize=40)
+로봇 공학과 물류로봇에 관심 있는 소프트웨어 개발자를 꿈꾸는 ggh-png입니다. 새로운 기술을 배우고 만드는 것을 좋아합니다.
 
-<p align="right">
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmqjinwon1212%2Fhit-counter" alt="Top Langs" />
-</p>
+💻 관심 있는 것:
 
-<p align="center">
+- AGV, AMR 군집제어 시스템
+- 백준 온라인 저지에서 알고리즘 문제 해결
 
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-<img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white"/>
-<img src="https://img.shields.io/badge/CasADi-EE4C2C?style=for-the-badge&logo=&logoColor=white"/>
-</p>
+http://mazassumnida.wtf/api/mini/generate_badge?boj=dntjd292
 
-### 👨‍🔧 Introduction
+🌱 현재 배우고 있는 것:
 
-> I have been studying robotics for five years, specializing in **motion planning** and **collision avoidance** for quadruped robots. My research focuses on **trajectory optimization** and **reinforcement learning**. Additionally, I am keenly interested in the overall framework for robots, including SLAM, control, and more. I welcome anyone who wishes to discuss these topics with me.
+- 영어 (토익)
+- behavior planning
+- BehaviorTree
 
-<br/>
+👨‍💻 경험해본 것:
 
-### 👨‍🎓 Education
+- ROS1
+- ROS2
+- FlexBE
+- C++
+- Python
+- Arduino
+- Git/GitHub
+- Notion
+- SolidWorks
 
-> 🔹 **M.S in Robotics Program** at [**SGVR**](https://sgvr.kaist.ac.kr/) from KAIST, Daejeon, South Korea (2021.3 ~ 2023.2)  
-> 🔹 **B.S in Robotics** from Kwangwoon University, Seoul, South Korea (2015.3 ~ 2021.2)
+📫 연락 방법:
 
-<br/>
+- 이메일: **[0380089@gmail.com](mailto:0380089@gmail.com)**
+- 링크드인: [ggh-png](https://www.linkedin.com/in/%EC%9A%B0%EC%84%B1-%EC%9C%A4-524b54207/)
 
-### 🔍 Research Interest
+https://github-readme-stats.vercel.app/api?username=ggh-png&show_icons=true&theme=dark
 
-> 🔸 **Motion Planning**  
-> 🔸 **Reinforcement Learning**  
-> 🔸 **Collision Avoidance**  
-> 🔸 **Quadruped Robot**  
-> 🔸 **Autonomous Driving**
+<p align="light">
 
-<br/>
-
-<p align="center">
-Feel free to contact me! <br/>
-
-<a href="https://github.com/mqjinwon/cv/blob/main/CV.pdf">
-  <img src="http://img.shields.io/badge/-CV-black?style=flat-square&logo=github" alt="CV badge">
-</a>
-<a href="mailto:mqjinwon@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge">
-</a>
-<a href="https://www.linkedin.com/in/robotics-jinwon/">
-  <img src="https://img.shields.io/badge/-LinkedIn-0077b5?style=round-square&logo=linkedin&logoColor=white" alt="Linkedin">
-</a>
-<a href="https://www.youtube.com/@robotminsu">
-  <img src="https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool" alt="Youtube badge">
-</a>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=footer)
+!https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fggh-png&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false
