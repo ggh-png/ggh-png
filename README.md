@@ -1,13 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=🤖%20WooSung%20Yoon%20🐢&fontSize=40)
 
 <p align="left">
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fggh-png&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"alt="Top Langs" />
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dntjd292)](https://solved.ac/dntjd292)
-
-</p>
-
-<p align="left">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fggh-png&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits" />
   <a href="https://solved.ac/dntjd292">
     <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=dntjd292" alt="Solved.ac프로필" />
