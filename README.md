@@ -52,8 +52,7 @@
 
 <br/>
 
-<p align="center">
-Feel free to contact me! <br/>
+### 😄 About Me! 
 
 <a href="https://www.miricanvas.com/en/v/11xa6e7">
   <img src="https://img.shields.io/badge/Portfolio-333333?style=flat-square&logo=aboutdotme&logoColor=white" alt="Notion badge">
