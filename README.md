@@ -8,7 +8,6 @@
 
 <h5 align="center">Programming</h5>
 <p align="center">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/>
 </p>
@@ -31,7 +30,7 @@
 ### 🚩 History
 > 🔹 Bachelor's in Robotics Fusion Major, Hanyang University ERICA (Mar 2019 - Feb 2024)
 > 
-> 🔹 Undergraduate Researcher at AiRO, Member of Ilus Society (Mar 2019 - Jan 2020)
+> 🔹 Undergraduate Researcher at AiRO, Member of E-RUS Society (Mar 2019 - Jan 2020)
 >
 > 🔹 COMS Research and Design Intern (Mar 2020 - Aug 2020)
 >
