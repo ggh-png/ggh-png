@@ -65,4 +65,9 @@ Feel free to contact me! <br/>
   <img src="https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool" alt="Youtube badge">
 </a>
 
+<a href="https://ggh-png.notion.site/ggh-png/Woosung-Yun-16843801948c44568fd78c21841cd13c">
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion badge">
+</a>
+
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=footer)
