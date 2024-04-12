@@ -42,6 +42,8 @@
 > 🔹 Member of Auturbo Team, 4th Cohort (Apr 2023 - Present)
 >
 > 🔹 Developer & Researcher at BMK Robotics Platform (Sep 2023 - Feb 2024)
+> 
+> 🔹 Robotics Developer & Researcher at KRM Platform (Mar 2024 - Present)
 
 <br/>
 
